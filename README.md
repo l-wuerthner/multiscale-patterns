@@ -4,7 +4,7 @@ This repository provides the code associated with the paper:
 
 #### Authors: Laeschkir Würthner, Fridtjof Brauns, Grzegorz Pawlik, Jacob Halatek, Jacob Kerssemakers, Cees Dekker, Erwin Frey
 
-Preprint available on [arXiv:2111.12043](https://arxiv.org/abs/2111.12043)
+Paper: [PNAS 119(**33**), e2206888119 (2022)](https://www.pnas.org/doi/10.1073/pnas.2206888119)
 
 ## Numerical simulations
 
