@@ -19,4 +19,4 @@ The analysis of pattern-forming instabilities (as described in the manuscript an
 
 ## Pattern reconstruction
 The reconstruction of regional patterns from the commensurability criterion (as described in the manuscript ) was also carried out in Mathematica. The Notebook is provided in "Mathematica/reconstruction_commensurability.m".
-For practical purposes, we also provide the slice-averaged simulation exports (from the Finite element solver) "Mathematica/MinDslicedavg.m" for the MinD densities and "Mathematica/MiEslicedavg.m" MinE densities, respectively.
+For practical purposes, we also provide the slice-averaged simulation exports (from the Finite element solver) "Mathematica/MinDslicedavg.m" for the MinD densities and "Mathematica/MinEslicedavg.m" MinE densities, respectively.
